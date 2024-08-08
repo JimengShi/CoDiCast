@@ -1,6 +1,7 @@
 # CoDiCast
 
 ### Directory tree
+```bash
 ├── checkpoint
 │   └── model_weights.txt
 ├── data
@@ -30,6 +31,7 @@
 │   ├── normalization.py
 │   ├── preprocess.py
 │   └── visuals.py
+```
 
 ### Run
 `
