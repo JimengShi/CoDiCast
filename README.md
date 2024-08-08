@@ -1,5 +1,8 @@
 # CoDiCast
 
+Code for the paper "CoDiCast: Conditional Diffusion Model for Weather Prediction with Uncertainty Quantification".
+
+
 ### Directory tree
 ```bash
 ├── checkpoint
