@@ -36,8 +36,12 @@ Code for the paper "CoDiCast: Conditional Diffusion Model for Weather Prediction
 │   └── visuals.py
 ```
 
-### Run
+### Environment
 ```
 conda create -n `ENV_NAME` python=3.10
-pip install tensorflow-gpu=2.15.0
+pip install tensorflow-gpu==2.15.0
+pip install numpy==1.26.4
+pip install pandas==1.5.3
+pip install matplotlib==3.8.3
 ```
+After installing the necessary packages, you should be able to run the training files in `training` folder and evaluation files in `evaluation` folder.
