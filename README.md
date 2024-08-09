@@ -20,10 +20,6 @@ Code for the paper "CoDiCast: Conditional Diffusion Model for Weather Prediction
 ├── training
 │   ├── ddpm_weather_56c2_56_5var_best.ipynb
 │   ├── ddpm_weather_56c2_56_5var_best_1500.ipynb
-│   ├── ddpm_weather_56c2_56_5var_best_2000.ipynb
-│   ├── ddpm_weather_56c2_56_5var_best_250.ipynb
-│   ├── ddpm_weather_56c2_56_5var_best_500.ipynb
-│   ├── ddpm_weather_56c2_56_5var_best_750.ipynb
 │   ├── ddpm_weather_56c2_56_5var_best_no_attention.ipynb
 │   ├── ddpm_weather_56c2_56_5var_best_no_attention_encoder.ipynb
 │   ├── ddpm_weather_56c2_56_5var_best_no_encoder.ipynb
@@ -44,4 +40,4 @@ pip install numpy==1.26.4
 pip install pandas==1.5.3
 pip install matplotlib==3.8.3
 ```
-After installing the necessary packages, you should be able to run the training files in `training` folder and evaluation files in `evaluation` folder.
+After installing the necessary packages, you should be able to run the training files in the `training` folder and the evaluation files in the `evaluation` folder.
