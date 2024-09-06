@@ -44,3 +44,12 @@ pip install pandas==1.5.3
 pip install matplotlib==3.8.3
 ```
 After installing the necessary packages, you should be able to run the training files in the `training` folder and the evaluation files in the `evaluation` folder.
+
+
+### Data
+Download the 2010-2018 data from the website: https://dataserv.ub.tum.de/index.php/s/m1524895?path=%2F5.625deg. Variables are:
+- geopotential at 500 hPa pressure level (Z500)
+- atmospheric temperature at 850 hPa pressure level (T850)
+- ground temperature (T2m)
+- 10 meter U wind component (U10)
+- 10 meter V wind component (V10)
