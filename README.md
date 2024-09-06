@@ -1,7 +1,9 @@
 # CoDiCast
 
 Code for the paper "CoDiCast: Conditional Diffusion Model for Weather Prediction with Uncertainty Quantification".
-
+<div align="center">
+<img src="https://github.com/JimengShi/ParaRCNN-Time-Series-Forecasting/blob/main/figures/model_framework.png" alt="model_framework.png" width="90%">
+</div>
 
 ### Directory tree
 ```bash
