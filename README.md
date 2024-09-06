@@ -53,3 +53,8 @@ Download the 2010-2018 data from the website: https://dataserv.ub.tum.de/index.p
 - ground temperature (T2m)
 - 10 meter U wind component (U10)
 - 10 meter V wind component (V10)
+
+
+### Run
+- Run `ipynb` files in the `training` folder. Please run `pre-train` first for the encoder model, and train CoDiCast.
+- Run `ipynb` files in the `evaluation` folder for quantitative and qualitative experimental results.
