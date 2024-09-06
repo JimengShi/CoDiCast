@@ -37,6 +37,7 @@ Code for the paper "CoDiCast: Conditional Diffusion Model for Weather Prediction
 ### Environment
 ```
 conda create -n `ENV_NAME` python=3.10
+conda activate `ENV_NAME`
 pip install tensorflow-gpu==2.15.0
 pip install numpy==1.26.4
 pip install pandas==1.5.3
