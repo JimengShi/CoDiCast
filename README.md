@@ -43,8 +43,6 @@ pip install numpy==1.26.4
 pip install pandas==1.5.3
 pip install matplotlib==3.8.3
 ```
-After installing the necessary packages, you should be able to run the training files in the `training` folder and the evaluation files in the `evaluation` folder.
-
 
 ### Data
 Download the 2010-2018 data from the website: https://dataserv.ub.tum.de/index.php/s/m1524895?path=%2F5.625deg. Variables are:
