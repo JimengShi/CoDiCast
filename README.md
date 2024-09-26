@@ -55,5 +55,5 @@ Variables are:
 
 ### Run
 - Run `data_download_process.ipynb` file to download data and create training/val/test sets.
-- Run `ipynb` files in the `training` folder. Please run `pre-train` first for the encoder model, and train CoDiCast.
+- Run `ipynb` files in the `training` folder. Please run `encoder_cnn_56deg_5var.ipynb` first for the pre-trained encoder model, and then train CoDiCast.
 - Run `ipynb` files in the `evaluation` folder for quantitative and qualitative experimental results.
