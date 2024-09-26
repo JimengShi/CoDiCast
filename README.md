@@ -9,6 +9,7 @@
 │   └── data.txt
 ├── evaluation
 │   ├── global_forecast_rmse_acc_56.ipynb
+│   ├── global_forecast_visual_ensemble.ipynb
 │   └── global_forecast_visual.ipynb
 ├── layers
 │   ├── denoiser.py
@@ -28,6 +29,7 @@
 │   ├── normalization.py
 │   ├── preprocess.py
 │   └── visuals.py
+├── data_download_process.ipynb
 ```
 
 ### Environment
@@ -38,6 +40,8 @@ pip install tensorflow-gpu==2.15.0
 pip install numpy==1.26.4
 pip install pandas==1.5.3
 pip install matplotlib==3.8.3
+pip install climate-learn
+pip install xarray
 ```
 
 ### Data
@@ -50,5 +54,6 @@ Variables are:
 
 
 ### Run
+- Run `data_download_process.ipynb` file to download data and create training/val/test sets.
 - Run `ipynb` files in the `training` folder. Please run `pre-train` first for the encoder model, and train CoDiCast.
 - Run `ipynb` files in the `evaluation` folder for quantitative and qualitative experimental results.
