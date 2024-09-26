@@ -1,9 +1,5 @@
 # CoDiCast
 
-Code for the paper "CoDiCast: Conditional Diffusion Model for Weather Prediction with Uncertainty Quantification".
-<div align="center">
-<img src="https://github.com/JimengShi/CoDiCast/blob/main/figures/framework.jpg" alt="model_framework.png" width="100%">
-</div>
 
 ### Directory tree
 ```bash
@@ -45,7 +41,7 @@ pip install matplotlib==3.8.3
 ```
 
 ### Data
-Download the 2010-2018 data from the website: https://dataserv.ub.tum.de/index.php/s/m1524895?path=%2F5.625deg. Variables are:
+Variables are:
 - geopotential at 500 hPa pressure level (Z500)
 - atmospheric temperature at 850 hPa pressure level (T850)
 - ground temperature (T2m)
