@@ -1,5 +1,5 @@
 ## CoDiCast
-Code for the paper "CoDiCast: Conditional Diffusion Model for Global Weather Prediction with Uncertainty Quantification" accepted at IJCAI'25.
+Code for the paper "[CoDiCast: Conditional Diffusion Model for Global Weather Prediction with Uncertainty Quantification](https://arxiv.org/abs/2409.05975)" accepted at IJCAI'25.
 <div align="left">
 <img src="https://github.com/JimengShi/CoDiCast/blob/main/figures/CoDiCast_framework.png" alt="codicast_framework" width="1000"/> 
 </div>
