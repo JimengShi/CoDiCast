@@ -76,8 +76,8 @@ If you find this work interesting and useful, please cite our paper:
 
 ```bibtex
 @article{shi2024codicast,
-  title={Codicast: Conditional diffusion model for weather prediction with uncertainty quantification},
-  author={Shi, Jimeng and Jin, Bowen and Han, Jiawei and Narasimhan, Giri},
+  title={CoDiCast: Conditional Diffusion Model for Global Weather Prediction with Uncertainty Quantification},
+  author={Shi, Jimeng and Jin, Bowen and Han, Jiawei and Gopalakrishnan, Sundararaman and Narasimhan, Giri},
   journal={arXiv preprint arXiv:2409.05975},
   year={2024}
 }
