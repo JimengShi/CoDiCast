@@ -63,3 +63,21 @@ Variables are:
 - Run `data_download_process.ipynb` file to download data and create training/val/test sets.
 - Run `ipynb` files in the `training` folder. Please run `encoder_cnn_56deg_5var.ipynb` first for the pre-trained encoder model, and then train CoDiCast.
 - Run `ipynb` files in the `evaluation` folder for quantitative and qualitative experimental results.
+
+
+### Main Results
+<div align="left">
+<img src="https://github.com/JimengShi/CoDiCast/blob/main/figures/CoDiCast_results.png" alt="codicast_framework" width="1000"/> 
+</div>
+
+
+### Citation
+If you find this work interesting and useful, please cite our paper:
+
+```bibtex
+@article{shi2024codicast,
+  title={Codicast: Conditional diffusion model for weather prediction with uncertainty quantification},
+  author={Shi, Jimeng and Jin, Bowen and Han, Jiawei and Narasimhan, Giri},
+  journal={arXiv preprint arXiv:2409.05975},
+  year={2024}
+}
