@@ -79,7 +79,6 @@ If you find this work interesting and useful, please cite our paper:
   title     = {CoDiCast: Conditional Diffusion Model for Global Weather Forecasting with Uncertainty Quantification},
   author    = {Shi, Jimeng and Jin, Bowen and Han, Jiawei and Gopalakrishnan, Sundararaman and Narasimhan, Giri},
   booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence, {IJCAI-25}},
-  publisher = {International Joint Conferences on Artificial Intelligence Organization},
   doi       = {10.24963/ijcai.2025/1095},
   url       = {https://doi.org/10.24963/ijcai.2025/1095},
 }
