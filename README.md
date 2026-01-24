@@ -75,9 +75,11 @@ Variables are:
 If you find this work interesting and useful, please cite our paper:
 
 ```bibtex
-@article{shi2024codicast,
-  title={CoDiCast: Conditional Diffusion Model for Global Weather Prediction with Uncertainty Quantification},
-  author={Shi, Jimeng and Jin, Bowen and Han, Jiawei and Gopalakrishnan, Sundararaman and Narasimhan, Giri},
-  journal={arXiv preprint arXiv:2409.05975},
-  year={2024}
+@inproceedings{ijcai2025p1095,
+  title     = {CoDiCast: Conditional Diffusion Model for Global Weather Forecasting with Uncertainty Quantification},
+  author    = {Shi, Jimeng and Jin, Bowen and Han, Jiawei and Gopalakrishnan, Sundararaman and Narasimhan, Giri},
+  booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence, {IJCAI-25}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  doi       = {10.24963/ijcai.2025/1095},
+  url       = {https://doi.org/10.24963/ijcai.2025/1095},
 }
